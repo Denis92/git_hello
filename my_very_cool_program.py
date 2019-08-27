@@ -1,2 +1,3 @@
 name = input("Введите имя: ")
-print(f"hello {name}")
+second_name = input("Введите фамилию: ")
+print(f"hello {name} {second_name}")
